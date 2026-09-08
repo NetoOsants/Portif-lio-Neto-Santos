@@ -53,12 +53,9 @@ Principais funcionalidades apresentadas no protótipo:
 
 Os prints utilizados na entrega estão na pasta [`prints`](prints/):
 
-- `<img width="1899" height="771" alt="image" src="https://github.com/user-attachments/assets/30800589-7189-45be-9682-f809c71a633c" />
-` — página inicial;
-- `<img width="1461" height="822" alt="image" src="https://github.com/user-attachments/assets/165bd7f6-94c6-4bbc-9eed-7a7054f23c3c" />
-` — página individual do Transágua SGOC;
-- `<img width="1254" height="553" alt="image" src="https://github.com/user-attachments/assets/24db5195-3f9e-4e8d-a135-bc88455bd19f" />
-` — página de stacks e habilidades.
+- `` — página inicial;
+- `Pagina Transágua.png` — página individual do Transágua SGOC;
+- `` — página de stacks e habilidades.
 
 ---
 
