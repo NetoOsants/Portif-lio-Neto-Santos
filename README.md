@@ -53,7 +53,7 @@ Principais funcionalidades apresentadas no protótipo:
 
 Os prints utilizados na entrega estão na pasta [`prints`](prints/):
 
-- `` — página inicial;
+- `pagina inicial.png` — página inicial;
 - `Pagina Transágua.png` — página individual do Transágua SGOC;
 - `habilidades.png` — página de stacks e habilidades.
 
