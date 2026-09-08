@@ -2,17 +2,15 @@
 
 > Protótipo de portfólio pessoal desenvolvido para o entregável da Trilha Front-end | Design de Experiência.
 
-![Prévia da página inicial](prints/home.jpg)
-
 ## Sobre o projeto
 
 Este repositório reúne o protótipo do meu portfólio pessoal. Ele foi pensado para apresentar minha trajetória como estudante de Engenharia da Computação, minhas habilidades em desenvolvimento e projetos que construí do banco de dados à interface.
 
-Atualmente, tenho 19 anos e curso o 2º período de Engenharia da Computação. Tenho interesse em desenvolver sistemas úteis, unindo lógica de back-end e interfaces claras para as pessoas que vão utilizá-las.
+Atualmente, tenho 19 anos e curso o 2º período de Engenharia de Software. Tenho interesse em desenvolver sistemas úteis, unindo lógica de back-end e interfaces claras para as pessoas que vão utilizá-las.
 
 ## Protótipo no Figma
 
-[Abrir o protótipo no Figma](https://www.figma.com/make/VBe5GyYEgG6C5Ffc26BoxY/Portfolio-website-design?t=XyJ3eyyPyWi5cNH5-1)
+[Abrir o protótipo no Figma](https://www.figma.com/community/file/1679129651461420888/criar-portfolio-de-programador)
 
 ## Estrutura do portfólio
 
@@ -23,13 +21,13 @@ Atualmente, tenho 19 anos e curso o 2º período de Engenharia da Computação. 
 
 ## Projetos apresentados
 
-### Grupo São Paulo — Plataforma de alocação de imóveis
-
-Sistema completo para uma empresa de alocação de imóveis. O projeto inclui painel administrativo e foi desenvolvido com front-end e back-end, buscando tornar a gestão mais organizada e prática.
-
-### Transágua SGOC — Sistema de Gestão Operacional de Campo
+###  Transágua SGOC — Sistema de Gestão Operacional de Campo
 
 Sistema criado para apoiar a operação de campo da Transágua por meio de três linhas de acesso hierárquico: campo, supervisão e gestão. A solução centraliza o acompanhamento das obras, registros diários, equipes, contratos, ocorrências e consumo de combustível.
+
+### Adequa LGPD - Sistema de Gestão Operacional
+
+Sistema criado para apoiar e organizar os dados dos cidadãos maranhenses 
 
 Principais funcionalidades apresentadas no protótipo:
 
@@ -39,29 +37,29 @@ Principais funcionalidades apresentadas no protótipo:
 - alertas para ocorrências críticas;
 - relatórios de produtividade por contrato.
 
-![Página individual do projeto Transágua SGOC](prints/projeto-transagua.jpg)
 
 ## Habilidades
 
 | Tecnologia | Aplicação atual |
 | --- | --- |
-| Python | APIs, automação, lógica de negócio e banco de dados |
-| JavaScript | interfaces dinâmicas, DOM e integração com APIs |
+| Python | APIs, automação, |
+|  interfaces dinâmicas, DOM e integração com APIs |
 | HTML | estruturação semântica de páginas web |
 | CSS | layout responsivo, estilização e interfaces |
 
-Também estou aprofundando meus conhecimentos em React, TypeScript, SQL, Git/GitHub e Node.js.
 
-![Página de habilidades](prints/habilidades.jpg)
 
 ## Prints das telas
 
 Os prints utilizados na entrega estão na pasta [`prints`](prints/):
 
-- `home.jpg` — página inicial;
-- `projeto-transagua.jpg` — página individual do Transágua SGOC;
-- `habilidades.jpg` — página de stacks e habilidades.
+- `<img width="1899" height="771" alt="image" src="https://github.com/user-attachments/assets/30800589-7189-45be-9682-f809c71a633c" />
+` — página inicial;
+- `<img width="1461" height="822" alt="image" src="https://github.com/user-attachments/assets/165bd7f6-94c6-4bbc-9eed-7a7054f23c3c" />
+` — página individual do Transágua SGOC;
+- `<img width="1254" height="553" alt="image" src="https://github.com/user-attachments/assets/24db5195-3f9e-4e8d-a135-bc88455bd19f" />
+` — página de stacks e habilidades.
 
 ---
 
-Desenvolvido por **Lucas Silva Lima**.
+Desenvolvido por **Neto Santos**.
