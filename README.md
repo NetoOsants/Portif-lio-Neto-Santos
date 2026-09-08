@@ -55,7 +55,7 @@ Os prints utilizados na entrega estão na pasta [`prints`](prints/):
 
 - `` — página inicial;
 - `Pagina Transágua.png` — página individual do Transágua SGOC;
-- `` — página de stacks e habilidades.
+- `habilidades.png` — página de stacks e habilidades.
 
 ---
 
